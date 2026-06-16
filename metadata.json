@@ -1,0 +1,6 @@
+{
+  "name": "Delivery Link",
+  "description": "A delivery app that connects local small business owners and riders to facilitate order delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
